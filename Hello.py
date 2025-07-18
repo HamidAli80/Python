@@ -18,4 +18,4 @@ for result in counts:
     print(result.text)
 
 print('Count:', len(nums))
-print('Sum:', sum(nums))
+print('Sum of numbers:', sum(nums))
